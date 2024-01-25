@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba 
+Este es un proyecto de prueba de omo clonar un repositorio desde github a mi computadora local
